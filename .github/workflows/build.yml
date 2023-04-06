@@ -26,5 +26,4 @@ jobs:
         make vmlinux
         make uImage.bin
         make fw_payload.bin
-        make images
 
